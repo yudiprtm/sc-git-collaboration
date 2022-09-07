@@ -18,4 +18,5 @@ def main():
 if __name__ == "__main__":
     print("Hello Main !")
     print("start program")
+    print("work on new ftr")
     main()
